@@ -27,4 +27,4 @@ It supports scanning single IPs, IP ranges, and CIDR networks.
 (Add your app screenshots here)
 
 ## Author
-Your Name
+Santhosh Paningapalli
